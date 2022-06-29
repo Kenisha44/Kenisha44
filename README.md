@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on open source projects 
-- 📫 How to reach me twitter @Kenisha_Adina 
+- 📫 How to reach me twitter @Kenisha_Codes 
 - 📖 Reach me @ Linkedin https://www.linkedin.com/in/kenisha-johnson/ 
 
 <!---
